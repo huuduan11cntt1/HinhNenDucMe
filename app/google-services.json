@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1090083498349",
+    "project_id": "hinh-nen-duc-me",
+    "storage_bucket": "hinh-nen-duc-me.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1090083498349:android:62822942f8d30306e7d264",
+        "android_client_info": {
+          "package_name": "jos.tran.hinhnenducme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1090083498349-s73ctkp8k1iu5ufrt9vnehrl5gbfgsf6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jos.tran.hinhnenducme",
+            "certificate_hash": "fbfec8c95d542a38e74c069dc293b3a9e5b45e87"
+          }
+        },
+        {
+          "client_id": "1090083498349-7obpg4qc0943i6hmr45o9kk2mi43qce7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHWp4TRKTP1RHJlQw7qI0PpVXJzYzMODI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1090083498349-7obpg4qc0943i6hmr45o9kk2mi43qce7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
